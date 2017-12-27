@@ -1,2 +1,2 @@
 # Android-Application-on-SCM
-Just another Repository
+This android application will first ask the user to register with the application. After successful registeration, the application prompts the user to enter his/her location. The application then uses the location provided and searches all the nearby petrol pumps in the area and provides the list to the user. Also, the application grants a unique token to every user so that the users can avoid the rush at petrol pumps during peak times.
